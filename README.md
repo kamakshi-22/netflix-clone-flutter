@@ -1,16 +1,11 @@
-# flutter_netflix_clone
+# Responsive Flutter Netflix Clone
 
-A new Flutter project.
+### DESKTOP
+<img width="958" alt="image" src="https://github.com/kamakshi-22/flutter-netflix-clone/assets/55135926/c1c2c103-90f4-4e09-84a2-6a24d204233b">
 
-## Getting Started
+### MOBILE
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://github.com/kamakshi-22/flutter-netflix-clone/assets/55135926/27496bf8-5a21-4e9c-b734-9c95384a4ee6" width="400" /> 
+  <img src="https://github.com/kamakshi-22/flutter-netflix-clone/assets/55135926/694188c0-6bda-4a3a-b0c4-68aa018ea9db" width="400" />
+</p>
